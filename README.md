@@ -4,4 +4,6 @@ This project adds 5 new finger tracking DOFs to the Dexmo force-feedback glove, 
 
 Read the [docs](TofDocumentation) to understand what happens inside!
 
-This project is maintained by [Andrew Wang](mailto:andrew.wang27@gmail.com)
+Overview of the project on my blog [here](https://andrewwango.github.io/dexta).
+
+This project is maintained by [Andrew Wang](https://andrewwango.github.io/).
